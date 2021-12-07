@@ -1,0 +1,14 @@
+C:\Users\pjgon\source\repos\vectorkata\bin\Debug\vectorkata.exe.config
+C:\Users\pjgon\source\repos\vectorkata\bin\Debug\vectorkata.exe
+C:\Users\pjgon\source\repos\vectorkata\bin\Debug\vectorkata.pdb
+C:\Users\pjgon\source\repos\vectorkata\obj\Debug\vectorkata.csproj.AssemblyReference.cache
+C:\Users\pjgon\source\repos\vectorkata\obj\Debug\vectorkata.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\source\repos\vectorkata\obj\Debug\vectorkata.exe
+C:\Users\pjgon\source\repos\vectorkata\obj\Debug\vectorkata.pdb
+C:\Users\pjgon\Desktop\vectorkata\bin\Debug\vectorkata.exe.config
+C:\Users\pjgon\Desktop\vectorkata\bin\Debug\vectorkata.exe
+C:\Users\pjgon\Desktop\vectorkata\bin\Debug\vectorkata.pdb
+C:\Users\pjgon\Desktop\vectorkata\obj\Debug\vectorkata.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\vectorkata\obj\Debug\vectorkata.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\vectorkata\obj\Debug\vectorkata.exe
+C:\Users\pjgon\Desktop\vectorkata\obj\Debug\vectorkata.pdb
