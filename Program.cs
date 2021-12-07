@@ -25,8 +25,15 @@ namespace vectorkata
                 return pit;
 
             }
-        
-       
+
+        public static double proudctdot(vectorops vectorx, vectorops vectory)
+        {
+            double i = vectorx.u * vectory.v;
+            double j = vectory.v * vectorx.u;
+
+            return (i * j);
+
+        }
         static void Main(string[] args)
         {
 
