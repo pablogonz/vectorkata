@@ -33,6 +33,12 @@ namespace vectorkata
 
             return (i * j);
 
+
+        }
+        public static double betweenangle(vectorops vectorx, vectorops vectory)
+        {
+           double  process = Math.Atan2(vectory.v, vectorx.u) - Math.Atan2(vectorx.u, vectory.v);
+            return Math.Acos(process) * (180) /3.1416;
         }
         static void Main(string[] args)
         {
